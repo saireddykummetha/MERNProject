@@ -62,7 +62,7 @@ else{
     <div className="Left-side">
       <div className="branding">
         <div className="logo-section">
-          <img src={Logo} className='Logo'/>
+          <img src={Logo} alt='img' className='Logo'/>
         </div>
         <h1 className="main-heading">
           Your podcast will no longer be just a hobby.
