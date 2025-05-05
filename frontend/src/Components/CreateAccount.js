@@ -14,8 +14,6 @@ const CreateAccount = () => {
     confirmpassword:"",
    });
   
-
-  const dispatch=useDispatch();
    const handleOnchange=(e)=>{
     const{name,value}=e.target
     setdata((prev)=>{
