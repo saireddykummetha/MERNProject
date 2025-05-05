@@ -44,7 +44,7 @@ const handlefile=()=>{
     <div className='uploadflow'>
        <div className='left'>
          <div className="logoframe1">
-          <img src={Logo} className='logo'/>
+          <img src={Logo} alt='img' className='logo'/>
         </div> 
        <div className='podcast1'><FaPlus/>Add Your Podcast(s)  </div>
          <p className='create-podcast'><RiPencilLine/>Create & Repurpose</p>
@@ -79,7 +79,7 @@ const handlefile=()=>{
           <p className='text'>Lorem ipsum dolor sit. 
           Dolor lorem sit.</p>
           </div>
-          <img src={wifi} className='wifi'/>
+          <img src={wifi} alt='img' className='wifi'/>
           </div>
           </button>
 
@@ -103,7 +103,7 @@ const handlefile=()=>{
                 Dolor lorem sit.</p>
           
               </div>
-              <img src={upload} className='wifi'/>
+              <img src={upload} alt='img' className='wifi'/>
             </div>
           </button> 
           </div>
