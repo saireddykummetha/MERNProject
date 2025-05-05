@@ -33,7 +33,7 @@ const handleSubmit=async(e)=>{
 e.preventDefault();
 const {email,password}=data
 if(email && password ){
-  const fetchData = await fetch('http://localhost:8080/login',{
+  const fetchData = await fetch('https://mernproject-krau.onrender.com/login',{
     method : "post",
     headers : {
       "content-type" : "application/json"
