@@ -59,7 +59,7 @@ const Frame8 = () => {
           <p className='text'>Lorem ipsum dolor sit. 
           Dolor lorem sit.</p>
           </div>
-          <img src={wifi} className='wifi'/>
+          <img src={wifi} alt='img' className='wifi'/>
           </div>
           </button>
 
@@ -71,7 +71,7 @@ const Frame8 = () => {
                   Dolor lorem sit.</p>
           
               </div>
-              <img src={youtube} className='wifi'/>
+              <img src={youtube} alt='img' className='wifi'/>
             </div>
           </button>  
 
@@ -83,7 +83,7 @@ const Frame8 = () => {
                 Dolor lorem sit.</p>
           
               </div>
-              <img src={upload} className='wifi'/>
+              <img src={upload} alt='img' className='wifi'/>
             </div>
           </button> 
           </div>
