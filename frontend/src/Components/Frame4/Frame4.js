@@ -91,7 +91,7 @@ const handlefile=()=>{
                   Dolor lorem sit.</p>
           
               </div>
-              <img src={youtube} className='wifi'/>
+              <img src={youtube} alt="img" className='wifi'/>
             </div>
           </button>  
 
