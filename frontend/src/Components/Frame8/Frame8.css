@@ -1,0 +1,228 @@
+.uploadflow{
+display: flex;
+}
+.left{
+width: 20%;
+background-color: rgb(255, 255, 255);
+margin-top: 20px;
+margin-left: 20px;  
+height: 100%; 
+}
+
+.right{
+right: 100%;
+width: 80%;
+padding: 2.5rem;
+       
+}
+    
+.logo{
+width: 120px;
+height: 30px;
+}
+    
+
+.podcast{
+width: 200px;
+width: 230px;
+ margin-top: 20px;
+margin-left: -22px;
+display: flex;
+height: 5px;
+flex-direction: column;
+padding: 20px 0;
+border-radius: 10px;
+           
+}
+
+.side-menu{
+color: black;
+gap: 5px;
+}
+.create-podcast{
+color:black;
+margin-top: 25px;
+font-weight: 500;
+       
+}
+.podcastwidget{
+color:black;
+margin-top: 25px;
+font-weight: 500;
+       
+}
+.upgrade{
+color:black;
+margin-top: 25px;
+font-weight: 500;
+       
+}
+
+.home{
+display: flex;
+color: black;
+gap: 10px;
+margin-top: -12px;
+}
+.homepage{
+margin-top: -3px;
+color: black;
+font-weight: 400;
+font-size: 15px;
+text-align: start;
+cursor: pointer;
+}
+.sampleproject{
+color: black;
+font-weight: 400;
+margin-top: -3px;
+cursor: pointer;
+}
+.Addyourpodcast{
+color: #6f05cb;
+font-weight: 400;
+font-weight: 500;
+cursor: pointer;
+margin-top: -5px;
+}
+.addpodcast{
+color: black;
+font-weight: 600;font-size: 30px;
+flex-direction: column;
+margin-top: 15px;
+}
+.rssframe{
+border: 1px solid rgb(195, 195, 195);
+width: 300px;
+height:100px;
+border-radius: 8px;
+background-color: rgb(255, 255, 255);
+margin-top: 20px;
+cursor: pointer;
+}
+    
+.rssfeed{
+    color: black;
+margin-top: 20px;
+margin-left: 10px;
+font-size: 20px;
+font-weight: 500;
+    }
+.text{
+color: rgb(75, 75, 75);
+font-size: 13px;
+width: 180px;
+margin-left: 10px;
+    }
+.wififrame{
+display: flex;
+    
+}
+.wifi{
+width: 50px;
+height: 40px;
+margin: 30px;
+}
+.youtubeframe{
+ border: 1px solid rgb(195, 195, 195);
+ width: 300px;
+ height:100px;
+ border-radius: 8px;
+ background-color: rgb(255, 255, 255);
+ margin-top: 20px;
+ cursor: pointer;  
+    }
+.frame{
+display:flex;
+gap:5px;
+}
+.youtube{
+color: black;
+margin-top: 20px;
+margin-left: 10px;
+font-size: 20px;
+font-weight: 500;
+}
+.uploadfiles{
+border:1px solid rgb(196, 196, 196);
+width: 910px;
+height:250px;
+margin-top: 25px;
+background-color: rgb(255, 255, 255);
+border-radius: 10px;
+}
+.uploadsimble{
+    color: rgb(113, 0, 113);
+text-align: center;
+margin-top: 40px;
+}
+.simble{
+width: 45px;
+height: 45px;
+}
+.text1{
+color: black;
+height: 2px;
+width: 510px;
+margin-left: 200px;
+margin-top: 20px;
+}
+.textfile{
+color: rgb(186, 186, 186);
+margin-left: 330px;
+margin-top: 30px;
+font-size: 12px;
+        
+}
+.selectfile{
+border: 1px solid rgb(69, 69, 69);
+border-radius: 20px;
+height: 35px;
+width: 100px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-top: 25px;
+text-align: center;
+color:#8816eb;
+font-family: "Satoshi Variable";
+font-size: 16px;
+cursor: pointer;
+margin-left: 400px;
+}
+.showproject{
+
+border: 1px solid rgb(245, 243, 243);
+width: 58rem;
+background-color: rgb(255, 255, 255);
+margin-top: 2rem;
+border-radius: 5px;
+}
+.yourfiles{
+color: black;
+margin-left: 5rem;
+margin-top: 1rem;
+font-weight: 700;
+font-family: 'roboto';
+}
+.navbar{
+color: rgb(87, 87, 87);
+display: flex;
+background-color: rgb(214, 214, 214);
+width: 50rem;
+margin-left: 5rem;
+margin-top: 1rem;
+border-radius: 10px;
+height: 2.5rem;
+justify-content: space-between;
+align-items: center;
+font-family: 'Roboto';
+font-weight: 600;
+}
+.action{
+margin-right: 15px;
+}
+.no{
+margin-left:15px;   
+ }
+ 

@@ -1,0 +1,103 @@
+
+.container3{
+display: flex;
+
+}
+.Logoframe{
+margin-left: 3rem;
+margin-top: 20px;
+}
+.header-actions1{
+margin-left:63rem;
+margin-top: 20px;
+cursor: pointer;
+}
+.header-actions2{
+    margin-left: 12px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.line2{
+display: flex;
+}
+.title2{
+font-weight: 600;
+font-size: 25px;
+margin-left: 2.6rem;
+}
+.title3{
+margin-top: 2rem;
+margin-left: 57rem;
+border: 1px solid black;
+width: 12rem;
+height: 30px;
+justify-content: center;
+text-align: center;
+display: flex;
+color: white;
+background-color: black;
+border-radius: 5px;
+align-items: center;
+cursor: pointer;
+}
+.plus{
+color: white;
+font-size: 20px;
+margin-top:5px;
+margin-right: 8px;
+}
+.mainbox{
+border: 1px solid rgb(203, 203, 203);
+border-radius: 5px;
+width: 280px;
+height: 100px;
+background-color: white;
+margin-left:1.5rem;
+margin-top: 1rem;
+display: flex;
+}
+.border{
+display: flex;
+flex-wrap: wrap;
+}
+.card{
+margin-top: 0.5rem;
+margin-left: 20px;    
+}
+    
+.minbox{
+        
+width: 80px;
+height: 80px;
+margin-top: 10px;
+margin-left: 15px;
+border-radius: 10px;
+background: orange;
+}
+.sp{
+font-size: 50px;
+font-weight: bold;
+color: white;
+margin-top: 0px;
+justify-content: center;
+margin-left: 14px;
+}
+.sampletext{
+font-weight: 700;
+font-size: 18px;
+color: blueviolet;
+margin-left:20px;
+
+}
+        
+.files{
+color: rgb(77, 77, 77);
+margin-top: -60px;
+margin-left: 9rem;
+        
+}
+.time{
+margin-top: -12px;
+margin-left: 9rem;
+color: rgb(165, 165, 165);
+}

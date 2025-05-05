@@ -1,0 +1,120 @@
+.container3{
+display: flex;
+}
+.podcast1{
+cursor: pointer;
+width: 250px;
+background-color: rgb(217, 186, 247);
+width: 230px;
+margin-top: 20px;
+margin-left: -30px;
+height: 5px;
+flex-direction: column;
+padding: 20px 0;
+border-radius: 10px;
+
+text-align: center;
+direction: normal;
+}
+
+.leftpart{
+width: 80%;
+background-color: #fdfcfc;
+height: 100%;
+margin-top: 30px;
+}
+.home{
+
+margin-left: 20px;
+}
+.rightpart{
+width: 20%;
+height: 570px;
+background-color: rgb(177, 175, 175);
+}
+.arrowframe{
+display: flex;
+
+}
+.edittranscript{
+margin-left: 5px;
+font-weight: 600;
+font-size: 20px;
+}
+.arrow{
+margin-top: 2px;
+margin-left: 30px;
+font-size: 25px;
+}
+.arrowframe1{
+display: flex;
+
+}
+.help{
+font-family: 'Roboto';
+font-weight: 400;
+font-weight: 500;
+margin-top: 12rem;
+
+}
+
+.discardframe{
+display: flex;
+margin-left: 500px;
+}
+
+.content{  
+border: 1px solid rgb(219, 219, 219);
+background-color: rgb(255, 255, 255);
+width: 930px;
+height: 400px;
+margin-left: 35px;
+margin-top: 20px;
+border-radius: 5px;
+}
+.discard{
+color: red;
+margin-top: 2px;
+border: 1px solid red;
+width: 80px;
+height: 30px;
+justify-content: center;
+text-align: center;
+flex-direction: column;
+border-radius: 5px;
+display: flex;
+cursor: pointer;
+margin-left: 100px;
+}
+.save{
+border: 1px solid black;
+width: 80px;
+height:30px;
+border-radius: 5px;
+background:black;
+color: white;
+cursor: pointer;
+margin-left: 10px;
+}
+.speakar{
+color:rgb(129, 0, 123) ;
+margin-left: 30px;
+margin-top: 20px;
+font-weight: 600;
+}
+
+.textframe2 {
+width: 95%;
+text-decoration: none;
+min-height: 350px;
+font-size: 16px;
+line-height: 1.6;
+border-radius: 8px;
+font-family: 'Roboto';
+border: none;
+outline: none;
+margin-top: 10px;
+background-color: none;
+margin-left: 20px;
+}
+
