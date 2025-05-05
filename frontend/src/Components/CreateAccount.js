@@ -31,7 +31,7 @@ const CreateAccount = () => {
     const {name,email,password,confirmpassword}=data
     if(name && email && password && confirmpassword){
        if(password === confirmpassword){
-        const fetchData = await fetch('http://localhost:8080/signup',{
+        const fetchData = await fetch('https://mernproject-krau.onrender.com/signup',{
           method : "post",
           headers : {
             "content-type" : "application/json"
