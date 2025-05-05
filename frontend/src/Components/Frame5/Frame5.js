@@ -27,7 +27,7 @@ const Frame5 = ({onCancel}) => {
      console.log(Data);
 
       const {name,description}=Data
-     if(name,description){
+     if(name&&description){
       const fetchData=await fetch('https://mernproject-krau.onrender.com/fromyoutube',{
         method:'POST',
         headers:{
