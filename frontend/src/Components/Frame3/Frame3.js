@@ -37,7 +37,7 @@ const Frame3 = () => {
    <div >
       <div className="container3">
         <div className='Logoframe'>
-            <img src={logo} className='logo'/>
+            <img src={logo} alt="img" className='logo'/>
         </div>
         <div className='header-actions1'> 
           <MdOutlineSettings className='setting'/>
