@@ -31,7 +31,7 @@ const Frame6 = ({onCancel}) => {
       const {name,description}=Data
   
      if(name,description){
-      const fetchData=await fetch('http://localhost:8080/fromyoutube',{
+      const fetchData=await fetch('https://mernproject-krau.onrender.com/fromyoutube',{
         method:'POST',
         headers:{
           'Content-Type':'application/json'
