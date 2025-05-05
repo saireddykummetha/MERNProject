@@ -25,7 +25,7 @@ const DisplayProject = ({ name, num, id }) => {
       }
   
       try {
-        const res = await fetch(`http://localhost:8080/fromyoutube/${userData._id}`, {
+        const res = await fetch(`https://mernproject-krau.onrender.com/fromyoutube/${userData._id}`, {
           method: "DELETE",
         });
   
