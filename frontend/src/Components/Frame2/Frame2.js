@@ -38,7 +38,7 @@ export default function Frame2() {
         <h1 className="page-title">Create a New Project</h1>
 
         <div className="illustration-container">
-         <img src={image} className="image"/>
+         <img src={image} alt="img" className="image"/>
         </div>
 
         <p className="description-text">
