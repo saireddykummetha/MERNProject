@@ -3,7 +3,7 @@ import './Createpage.css'
 import toast from 'react-hot-toast';
 import {  useNavigate } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
-import incrementByAmount, { addCartItem } from '../../redux/uploadproject'
+import  { addCartItem } from '../../redux/uploadproject'
 
 const Craetepage = ({onClose}) => {
  
