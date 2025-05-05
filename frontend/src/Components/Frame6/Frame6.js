@@ -56,7 +56,7 @@ const Frame6 = ({onCancel}) => {
     <div className='overlay'>
     <div className='Youtubecontainer'>
       <div className='youiconframe'>
-        <img src={wifi} ait='img' className='youicon'/>
+        <img src={wifi} alt='img' className='youicon'/>
         <div className='upyoutube'>Upload from RSS Feed</div>
         <RxCross1 className='crosss' onClick={onCancel}/>
         </div>
