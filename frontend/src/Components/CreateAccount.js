@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './CreateAccount.css'
 import { Link, useNavigate } from 'react-router-dom'
 import  { toast} from 'react-hot-toast';
-import { useDispatch } from 'react-redux';
+
 
 const CreateAccount = () => {
   
