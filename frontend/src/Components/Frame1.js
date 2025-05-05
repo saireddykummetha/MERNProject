@@ -77,7 +77,7 @@ else{
     <div className="right-side">
       <div className="form-wrapper">
         <div className='logo-section1'>
-        <img src={Icon1} className=' logo-circle1'/>
+        <img src={Icon1} alt="img" className=' logo-circle1'/>
         </div>
         <h2 className="welcome-title">Welcome to <p className='ques'>Ques.AI</p></h2>
         
