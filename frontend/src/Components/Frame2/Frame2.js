@@ -22,7 +22,7 @@ export default function Frame2() {
     <div className="container2">
       <header className="header">
         <div className="logo-container">
-          <img src={Logo} className="Logo" alt="image"/>
+          <img src={Logo} className="Logo" alt="img"/>
         </div>
         <div className="header-actions">
           <button className="icon-button">
